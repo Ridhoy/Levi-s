@@ -1,0 +1,29 @@
+body{
+	margin:0;
+}
+
+.row_footer h3{
+	font-weight: bold;
+	font-size: 18px;
+	/*color: white;*/
+}
+.row_footer p{
+	/*color: white;*/
+}
+.box{
+	
+	text-align: center;
+
+}
+.box p{
+	font-size: 15px;
+
+}
+.text{
+	font-weight: bold;
+}
+.slider p{
+	font-size: 18px;
+}
+
+
